@@ -1,6 +1,6 @@
 # Description
 
-Depot is a shopping art application for Rails 5.
+Depot is a shopping cart application for Rails 5.
 
 # Use Cases
 Two roles:
