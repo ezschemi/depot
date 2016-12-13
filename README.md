@@ -1,6 +1,8 @@
-# Depot
+# Description
 
-## Use Cases
+Depot is a shopping art application for Rails 5.
+
+# Use Cases
 Two roles:
  1. Buyer
  2. Seller
@@ -8,7 +10,7 @@ Two roles:
 The buyer uses Depot to browse products we have to sell, select some of them for purchase, and supplies the information needed to create an order.
 The seller uses Depot to maintain a list of products to sell, to determine the orders that are awaiting shipping, and to mark orders as shipped.
 
-## Data
+# Data
 
 Product:
  * name
