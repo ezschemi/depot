@@ -1,0 +1,484 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"longest",
+				"longest_sequence"
+			],
+			[
+				"long",
+				"longest_number"
+			],
+			[
+				"C",
+				"Collatz"
+			],
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"col-md",
+				"col-md-offset-3\t(application.html.erb)"
+			],
+			[
+				"sign",
+				"sign_in"
+			],
+			[
+				"pass",
+				"password_confirmation\t(grams_controller_spec.rb)"
+			],
+			[
+				"gram",
+				"gram_params"
+			],
+			[
+				"root",
+				"root_path\t(grams_helper_spec.rb)"
+			],
+			[
+				"suc",
+				"successfully"
+			],
+			[
+				"visitor",
+				"visitor_display"
+			],
+			[
+				"deta",
+				"detail_button"
+			],
+			[
+				"det",
+				"detail_button"
+			],
+			[
+				"mar",
+				"marco"
+			],
+			[
+				"J",
+				"julian"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 150.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"sync",
+				"Sync Settings: Download"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"acti",
+				"Material Theme: Activate theme"
+			],
+			[
+				"active",
+				"Material Theme: Activate theme"
+			]
+		],
+		"width": 491.0
+	},
+	"console":
+	{
+		"height": 153.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) ",
+			" import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/enrico/depot"
+	],
+	"file_history":
+	[
+		"/media/sf_shared/algorithms/bintree/spec/spec_helper.rb",
+		"/media/sf_shared/postgres.txt",
+		"/media/sf_shared/algorithms/bintree/spec/bintree_spec.rb",
+		"/home/enrico/mysite/themes/hugo-theme-bootstrap4-blog/exampleSite/config.toml",
+		"/home/enrico/mysite/config.toml",
+		"/home/enrico/depot/README.md",
+		"/home/enrico/depot/config/database.yml",
+		"/home/enrico/mysite/content/post/about.md",
+		"/media/sf_shared/algorithms/tree/tree.rb",
+		"/media/sf_shared/algorithms/bintree/bintree.rb",
+		"/media/sf_shared/algorithms/fib/Gemfile",
+		"/media/sf_shared/algorithms/fib/lib/fib.rb",
+		"/media/sf_shared/algorithms/collatz/lib/collatz.rb",
+		"/home/enrico/tfp-grammable/spec/factories.rb",
+		"/home/enrico/tfp-grammable/spec/controllers/comments_controller_spec.rb",
+		"/home/enrico/tfp-grammable/app/views/grams/index.html.erb",
+		"/home/enrico/tfp-grammable/app/views/layouts/application.html.erb",
+		"/home/enrico/tfp-grammable/app/assets/stylesheets/master.scss",
+		"/media/sf_shared/image_blur/readme.md",
+		"/home/enrico/tfp-grammable/app/views/grams/edit.html.erb",
+		"/home/enrico/tfp-grammable/app/views/devise/registrations/new.html.erb",
+		"/home/enrico/tfp-grammable/app/controllers/comments_controller.rb",
+		"/home/enrico/tfp-grammable/app/controllers/grams_controller.rb",
+		"/home/enrico/tfp-grammable/app/views/devise/sessions/new.html.erb",
+		"/home/enrico/tfp-grammable/app/views/grams/new.html.erb",
+		"/home/enrico/tfp-grammable/app/assets/stylesheets/application.scss",
+		"/home/enrico/tfp-grammable/Gemfile",
+		"/home/enrico/tfp-grammable/grammable.sublime-project",
+		"/home/enrico/.config/sublime-text-3/Packages/User/SyncSettings.sublime-settings",
+		"/home/enrico/tfp-grammable/app/models/comment.rb",
+		"/home/enrico/tfp-grammable/app/models/user.rb",
+		"/home/enrico/tfp-grammable/app/models/gram.rb",
+		"/home/enrico/tfp-grammable/config/routes.rb",
+		"/home/enrico/tfp-grammable/db/migrate/20161206074844_create_comments.rb",
+		"/home/enrico/tfp-grammable/spec/models/comment_spec.rb",
+		"/home/enrico/tfp-grammable/spec/helpers/comments_helper_spec.rb",
+		"/home/enrico/tfp-grammable/app/helpers/comments_helper.rb",
+		"/home/enrico/tfp-grammable/spec/controllers/grams_controller_spec.rb",
+		"/home/enrico/tfp-grammable/config/initializers/carrierwave.rb",
+		"/home/enrico/tfp-grammable/app/views/grams/show.html.erb",
+		"/home/enrico/tfp-grammable/.rubocop.yml",
+		"/home/enrico/tfp-grammable/spec/rails_helper.rb",
+		"/home/enrico/tfp-grammable/app/uploaders/picture_uploader.rb",
+		"/home/enrico/tfp-grammable/config/database.yml",
+		"/home/enrico/tfp-grammable/spec/helpers/grams_helper_spec.rb",
+		"/home/enrico/tfp-grammable/spec/models/user_spec.rb",
+		"/home/enrico/tfp-grammable/spec/models/gram_spec.rb",
+		"/home/enrico/tfp-flixter/app/views/instructor/courses/show.html.erb",
+		"/home/enrico/altucher.txt",
+		"/home/enrico/tmp/tfp-quiz-2/app/controllers/visitors_controller.rb",
+		"/home/enrico/tmp/tfp-quiz-2/config/routes.rb",
+		"/home/enrico/tmp/tfp-quiz-2/app/views/visitors/index.html.erb",
+		"/home/enrico/tfp-flixter/app/views/courses/show.html.erb",
+		"/media/sf_Projects/dog.rb",
+		"/home/enrico/dog.rb",
+		"/home/enrico/person.rb",
+		"/home/enrico/tmp/tfp-quiz-2/app/models/visitor.rb",
+		"/home/enrico/tmp/tfp-quiz-2/app/views/visitor_display/index.html.erb",
+		"/home/enrico/tmp/tfp-quiz-2/app/views/visitor_display/show.html.erb",
+		"/home/enrico/tmp/tfp-quiz-2/app/controllers/visitor_display_controller.rb",
+		"/home/enrico/tmp/tfp-quiz-2/db/migrate/20161129102524_create_visitors.rb",
+		"/home/enrico/tfp-quiz-2/config/routes.rb",
+		"/home/enrico/tfp-quiz-2/Gemfile",
+		"/home/enrico/js.html",
+		"/home/enrico/script.rb",
+		"/home/enrico/decorator.cpp",
+		"/media/sf_Projects/sublime.txt"
+	],
+	"find":
+	{
+		"height": 55.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"end",
+			"boot",
+			"forb",
+			"#update",
+			"get :edit, id: \"",
+			"get :edit, id: S",
+			"user =",
+			"grams#create",
+			"grams#new",
+			"\n  ",
+			"'",
+			"\""
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"\"",
+			"'\"",
+			"'"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 33.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "depot.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"fac",
+				"spec/factories.rb"
+			],
+			[
+				"index",
+				"app/views/grams/index.html.erb"
+			],
+			[
+				"applerb",
+				"app/views/layouts/application.html.erb"
+			],
+			[
+				"edit.",
+				"app/views/grams/edit.html.erb"
+			],
+			[
+				"regisnew",
+				"app/views/devise/registrations/new.html.erb"
+			],
+			[
+				"sesssionsnew",
+				"app/views/devise/sessions/new.html.erb"
+			],
+			[
+				"newerb",
+				"app/views/grams/new.html.erb"
+			],
+			[
+				"index.",
+				"app/views/grams/index.html.erb"
+			],
+			[
+				"applicathtm",
+				"app/views/layouts/application.html.erb"
+			],
+			[
+				"master",
+				"app/assets/stylesheets/master.scss"
+			],
+			[
+				"appliscss",
+				"app/assets/stylesheets/application.scss"
+			],
+			[
+				"applscss",
+				"app/assets/stylesheets/application.scss"
+			],
+			[
+				"application.htm",
+				"app/views/layouts/application.html.erb"
+			],
+			[
+				"comment",
+				"app/models/comment.rb"
+			],
+			[
+				"user.rb",
+				"app/models/user.rb"
+			],
+			[
+				"gram.rb",
+				"app/models/gram.rb"
+			],
+			[
+				"routes.",
+				"config/routes.rb"
+			],
+			[
+				"create_co",
+				"db/migrate/20161206074844_create_comments.rb"
+			],
+			[
+				"grams_co",
+				"app/controllers/grams_controller.rb"
+			],
+			[
+				"comments_co",
+				"app/controllers/comments_controller.rb"
+			],
+			[
+				"routes",
+				"config/routes.rb"
+			],
+			[
+				"comment_spec",
+				"spec/models/comment_spec.rb"
+			],
+			[
+				"comments_helper",
+				"spec/helpers/comments_helper_spec.rb"
+			],
+			[
+				"comments_hel",
+				"app/helpers/comments_helper.rb"
+			],
+			[
+				"spec.rb",
+				"spec/controllers/grams_controller_spec.rb"
+			],
+			[
+				"comments_contr",
+				"spec/controllers/comments_controller_spec.rb"
+			],
+			[
+				"facto",
+				"spec/factories.rb"
+			],
+			[
+				"rails_he",
+				"spec/rails_helper.rb"
+			],
+			[
+				"carrier",
+				"config/initializers/carrierwave.rb"
+			],
+			[
+				"show.",
+				"app/views/grams/show.html.erb"
+			],
+			[
+				"new.h",
+				"app/views/grams/new.html.erb"
+			],
+			[
+				"gram.",
+				"app/models/gram.rb"
+			],
+			[
+				"gemfi",
+				"Gemfile"
+			],
+			[
+				"grams_con",
+				"spec/controllers/grams_controller_spec.rb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
