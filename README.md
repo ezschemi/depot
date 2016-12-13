@@ -1,6 +1,11 @@
 # Description
 
 Depot is a shopping cart application for Rails 5.
+Does the world need another shopping cart application?
+Probably not.
+
+Then why develop one?
+Because it is more than a simple project and showcases many features needed for other web applications.
 
 # Use Cases
 Two roles:
