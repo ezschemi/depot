@@ -67,6 +67,32 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "db/migrate/20161213064440_create_products.rb",
+			"settings":
+			{
+				"buffer_size": 258,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/views/products/_form.html.erb",
+			"settings":
+			{
+				"buffer_size": 814,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/assets/stylesheets/products.scss",
+			"settings":
+			{
+				"buffer_size": 766,
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -142,12 +168,13 @@
 	],
 	"file_history":
 	[
+		"/home/enrico/depot/README.md",
+		"/home/enrico/depot/depot.sublime-project",
 		"/media/sf_shared/algorithms/bintree/spec/spec_helper.rb",
 		"/media/sf_shared/postgres.txt",
 		"/media/sf_shared/algorithms/bintree/spec/bintree_spec.rb",
 		"/home/enrico/mysite/themes/hugo-theme-bootstrap4-blog/exampleSite/config.toml",
 		"/home/enrico/mysite/config.toml",
-		"/home/enrico/depot/README.md",
 		"/home/enrico/depot/config/database.yml",
 		"/home/enrico/mysite/content/post/about.md",
 		"/media/sf_shared/algorithms/tree/tree.rb",
@@ -226,6 +253,9 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"text_area",
+			"row",
+			"rows",
 			"end",
 			"boot",
 			"forb",
@@ -258,8 +288,95 @@
 	"groups":
 	[
 		{
+			"selected": 2,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "db/migrate/20161213064440_create_products.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 258,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								258,
+								258
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/views/products/_form.html.erb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 814,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								354,
+								354
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/HTML (Rails).sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 186.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "app/assets/stylesheets/products.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 766,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -311,6 +428,22 @@
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"products.scs",
+				"app/assets/stylesheets/products.scss"
+			],
+			[
+				"form",
+				"app/views/products/_form.html.erb"
+			],
+			[
+				"readme",
+				"README.md"
+			],
+			[
+				"2016",
+				"db/migrate/20161213064440_create_products.rb"
+			],
 			[
 				"fac",
 				"spec/factories.rb"

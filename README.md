@@ -1,6 +1,7 @@
 # Description
 
 Depot is a shopping cart application for Rails 5.
+
 Does the world need another shopping cart application?
 Probably not.
 
