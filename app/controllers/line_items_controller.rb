@@ -30,7 +30,7 @@ class LineItemsController < ApplicationController
     product = Product.find(params[:product_id])
     # build() builds a new relationship between the calling LineItem
     # and the passed in product
-    @line_item = @cart.line_items.build(product: product)
+    @line_item = @cart.add_product(product)
 
     respond_to do |format|
       if @line_item.save
