@@ -1,13 +1,21 @@
+#---
+# Excerpted from "Agile Web Development with Rails 5",
+# published by The Pragmatic Bookshelf.
+# Copyrights apply to this code. It may not be used to create training material,
+# courses, books, articles, and the like. Contact us if you are in doubt.
+# We make no guarantees that this code is fit for any purpose.
+# Visit http://www.pragmaticprogrammer.com/titles/rails5 for more book information.
+#---
 require 'test_helper'
 
 class ProductsControllerTest < ActionDispatch::IntegrationTest
   setup do
     @product = products(:ruby)
     @update = {
-      title: 'Lorem Ipsum',
-      description: 'Books are great!',
-      image_url: 'lorem.jpg',
-      price: 9.99
+      title:       'Lorem Ipsum',
+      description: 'Wibbles are fun! This need a longer description so it actually passes the model validation.',
+      image_url:   'lorem.jpg',
+      price:       19.95
     }
   end
 
@@ -43,6 +51,8 @@ class ProductsControllerTest < ActionDispatch::IntegrationTest
     patch product_url(@product), params: { product: @update }
     assert_redirected_to product_url(@product)
   end
+
+  # ...
 
   test "should destroy product" do
     assert_difference('Product.count', -1) do

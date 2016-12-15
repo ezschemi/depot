@@ -11,3 +11,9 @@ swift_style:
   description: Discover the do’s and don’ts involved in crafting readable Swift code as you explore common Swift coding challenges and the best practices that address them. From spacing, bracing, and semicolons to proper API style, discover the whys behind each recommendation, and add to or establish your own house style guidelines. This practical, powerful, and opinionated guide offers the best practices you need to know to work successfully in this equally opinionated programming language.
   image_url: swift_style.jpg
   price: 19.95
+
+take_my_money:
+  title: Take My Money
+  description: Getting paid using Stripe or PayPal is only the beginning of creating a fully-functional e-commerce application. You also need to handle failure cases, inventory management, administration, security, reporting, and be compliant with legal issues. Manage one-time transactions and recurring subscriptions, handle inventory management, issue discounts and refunds, mitigate administration and compliance issues, and test your code to ensure your customers have a smooth, hassle-free experience.
+  image_url: take_my_money.jpg
+  price: 24.50
