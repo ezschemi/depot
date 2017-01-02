@@ -1,4 +1,3 @@
-#---
 # Excerpted from "Agile Web Development with Rails 5",
 # published by The Pragmatic Bookshelf.
 # Copyrights apply to this code. It may not be used to create training material,
@@ -52,18 +51,16 @@ class ProductsControllerTest < ActionDispatch::IntegrationTest
     assert_redirected_to product_url(@product)
   end
 
-  # ...
-
   test "cant delete product in someone's cart" do
     assert_difference('Product.count', 0) do
-      delete product_url(products(:take_my_money))
+      delete product_url(products(:ruby))
     end
     assert_redirected_to products_url
   end
 
   test "should destroy product" do
     assert_difference('Product.count', -1) do
-      delete product_url(@product)
+      delete product_url(products(:take_my_money))
     end
 
     assert_redirected_to products_url
